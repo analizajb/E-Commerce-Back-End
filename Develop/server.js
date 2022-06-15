@@ -1,5 +1,8 @@
 const express = require('express');
 const routes = require('./routes');
+
+const bcrypt = require('bcrypt');
+
 // import sequelize connection
 
 const app = express();
