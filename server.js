@@ -18,7 +18,3 @@ app.listen(PORT, () => {
   console.log(`App listening on port ${PORT}!`);
 });
 
-const obj = {
-  name: 'Analiza',
-  occupation: 'Developer',
-};
