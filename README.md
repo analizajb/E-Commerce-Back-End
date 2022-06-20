@@ -32,8 +32,8 @@
   - Insomnia can be used to test all routes.
 
   ## Video Demonstration
-  Click here for video walkthrough: [ <iframe src="https://drive.google.com/file/d/1FvNyZdljD3koRm3qN5AfBNsUDZDHIw16/preview" width="640" height="480"></iframe>](https://drive.google.com/file/d/1FvNyZdljD3koRm3qN5AfBNsUDZDHIw16/view)
-
+  Click here for video walkthrough: [<iframe src="https://drive.google.com/file/d/1FvNyZdljD3koRm3qN5AfBNsUDZDHIw16/preview" width="640" height="480"></iframe>]
+  
  ## Questions
   - Email me at <analizaboehning@gmail.com>
   - Check me out on [GitHub](https://github.com/analizajb)
